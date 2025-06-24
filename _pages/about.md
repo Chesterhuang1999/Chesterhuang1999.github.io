@@ -10,7 +10,7 @@ redirect_from:
 
 I'm currently a fourth-year Ph.D in Institute of Software, Chinese Academy of Sciences and University of Chinese Academy of Sciences (**<u>UCAS</u>**). I'm advised by Prof **<u>Mingsheng Ying</u>** and I also collaborate with **<u>Li Zhou</u>**.
 
-**Contacts**: Personal Email **chesterhqf@gmail.com** or my institutional Email **huangqf@ios.ac.cn**. Or reach me by [<u>Github</u>](https://github.com/Chesterhuang1999).
+**Contacts**: Personal Email **chesterhqf@gmail.com** or my institutional Email **huangqf@ios.ac.cn**. Or reach me by [Github](https://github.com/Chesterhuang1999).
 
 **Research**
 
